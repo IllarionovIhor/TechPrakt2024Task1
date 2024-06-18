@@ -8,11 +8,17 @@
     background-color: gray;
     border: 50px solid darkgray;
     display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
 }
 
 .newsContainer article {
     width: 30%;
+    height: 400px;
+    border: 1px solid black;
+    padding: 5px;
 }
 .newsContainer article img{
     width: 100%;
+    aspect-ratio: 16/9;
 }
