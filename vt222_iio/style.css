@@ -2,6 +2,14 @@
     margin: 0px;
     padding: 0px;
 }
+h1{
+    background-color: darkred;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: pink;
+    font-size: 60px;
+}
 .newsContainer{
     /* margin: 50px; */
     padding: 10px;
